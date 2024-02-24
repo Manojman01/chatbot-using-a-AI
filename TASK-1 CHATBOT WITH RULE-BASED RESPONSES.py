@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 data={
     "hi":"Hi  how are you! I'm a friendly chatbot here to assist you?",
     "hello":"Hello! How can I help you  today",
@@ -34,9 +28,6 @@ while True:
         break
     response=get_response(user_input)
     print("Chatbot:", response);
-
-
-# In[ ]:
 
 
 
